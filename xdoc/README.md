@@ -1,6 +1,6 @@
 # xdoc
 
-A new Flutter project.
+The App basically save the expiry dates anything and notify use as due.
 
 ## Getting Started
 
