@@ -1,6 +1,6 @@
 # xdoc
 
-The App basically save the expiry dates anything and notify use as due.
+The App basically save the expiry dates of anything and notify you before the date.
 
 ## Getting Started
 
